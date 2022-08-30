@@ -1,0 +1,19 @@
+{
+    "name": "chaungoclong/simple-benchmark",
+    "description": "Simple script use for test speed and memory",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chaungoclong\\SimpleBenchmark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dragon",
+            "email": "longcn@beetsoft.com.vn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
